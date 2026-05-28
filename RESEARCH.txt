@@ -1,0 +1,543 @@
+RESEARCH
+
+
+prompt
+
+1.compare myntra,ajio,amazon fashion and filpkart in terms of ui/ux,product recommendations,pricing,delivery,search filiters,and customer satisfication
+
+2.what are the common drawbacks in current fashion e-commerce platforms for users?
+
+3.suggest innovative improvements for ai-assisted fashion e-commerce platform
+
+4.what are the three main pain points for the users in market?
+
+5.who are the main competitors?
+ 
+6.based on my sources,describe 3 user personas for my app
+
+7.what frontend and backend stack is best for a small team building an ecommerce app?
+
+DESIGN
+
+prompt
+
+home_page
+
+Design a modern Home/Landing screen for an AI-powered fashion e-commerce mobile app targeted at Gen Z users.
+
+App Identity:
+An AI personal fashion stylist and smart shopping assistant that delivers personalized and confidence-driven shopping experiences.
+
+Research Focus:
+
+- Personal styling experience
+- Smart shopping assistant
+- Fashion confidence
+- Reducing shopping confusion
+- Interactive fashion discovery
+
+Main User Pain Points:
+
+- Wrong size and fitting issues
+- Product mismatch from images
+- Too many product choices without personalization
+- Difficulty choosing outfits
+- Generic shopping experiences
+- Lack of fashion guidance
+
+UX Objectives:
+
+- Reduce decision fatigue
+- Create personalized fashion discovery
+- Make users feel guided by an AI stylist
+- Improve emotional engagement
+- Make shopping interactive and intelligent
+
+Design Style:
+Minimal luxury fashion UI with futuristic AI personalization and modern Gen Z aesthetics.
+
+Color Palette:
+
+- Charcoal black
+- White
+- Soft beige
+- Warm gray
+- Lavender accent gradients
+
+Typography:
+Modern clean typography with bold headlines, spacious layouts, and premium fashion branding.
+
+Layout Requirements:
+
+- Large hero fashion banner
+- Floating AI stylist assistant
+- Personalized recommendation feed
+- Mood-based shopping categories
+- Trending fashion section
+- AI semantic search bar
+- Bento-style content layout
+- Bottom navigation bar
+
+Features:
+
+- AI stylist prompt saying “What are you dressing for today?”
+- Personalized fashion recommendations
+- Mood-based categories like Minimal, Korean, Streetwear, Casual, Vintage
+- Dynamic AI suggestions
+- Interactive fashion discovery
+- Smart recommendation carousel
+
+Components:
+
+- Rounded product cards
+- Glassmorphism AI assistant card
+- Large immersive fashion imagery
+- Floating CTA buttons
+- Soft shadows
+- Minimal navigation icons
+
+UX Goal:
+The screen should feel like a smart AI fashion stylist instead of a traditional shopping app and make users emotionally connected to fashion discovery.
+
+Overall Mood:
+Premium, futuristic, stylish, intelligent, personalized, and immersive.
+
+Product_list
+
+Design a Product Listing screen for an AI-powered fashion e-commerce mobile app focused on personalized shopping experiences.
+
+App Identity:
+An intelligent AI fashion shopping assistant that helps users confidently discover outfits.
+
+Research Focus:
+
+- Smart shopping assistance
+- Personalized fashion discovery
+- Reducing shopping confusion
+- Interactive browsing experience
+
+Main User Pain Points:
+
+- Too many product choices
+- Lack of personalization
+- Difficulty finding suitable outfits
+- Generic search experience
+
+UX Objectives:
+
+- Reduce product overload
+- Improve product discovery
+- Deliver intelligent recommendations
+- Make browsing personalized and interactive
+
+Design Style:
+Modern premium fashion UI with minimal layouts and intelligent personalization.
+
+Color Palette:
+
+- Black
+- White
+- Beige
+- Light gray
+- Lavender accent highlights
+
+Typography:
+Minimal modern sans-serif typography with strong visual hierarchy.
+
+Layout Requirements:
+
+- AI semantic search bar
+- Smart AI filters
+- Personalized sorting options
+- Grid-based product layout
+- Large fashion product cards
+- Bottom navigation bar
+- Floating filter button
+
+Features:
+
+- “Best for Your Style” sorting
+- AI-powered recommendations
+- Personalized collections
+- Style match percentage
+- Smart search suggestions
+- Trend-based fashion recommendations
+
+Components:
+
+- Rounded product cards
+- Minimal shadows
+- Interactive filter chips
+- AI recommendation labels
+- Smooth scrolling product grid
+
+UX Goal:
+Create a personalized browsing experience that reduces decision fatigue and makes fashion discovery feel smart and curated.
+
+Overall Mood:
+Modern, intelligent, clean, stylish, and personalized.
+
+product_detail
+
+Design a Product Detail screen for an AI-powered fashion e-commerce mobile app.
+
+App Identity:
+A personalized AI fashion assistant that helps users shop confidently through styling guidance and smart recommendations.
+
+Research Focus:
+
+- Fashion confidence
+- Personalized styling
+- Reducing confusion
+- Improving trust in products
+
+Main User Pain Points:
+
+- Wrong size and fitting
+- Product mismatch from images
+- Lack of confidence before purchase
+
+UX Objectives:
+
+- Improve trust in products
+- Help users confidently select sizes
+- Deliver styling inspiration
+- Make product viewing immersive and interactive
+
+Design Style:
+Luxury minimal fashion UI with immersive visuals and modern AI personalization.
+
+Color Palette:
+
+- Deep charcoal black
+- White
+- Beige
+- Neutral gray
+- Soft lavender accents
+
+Typography:
+Elegant clean typography with premium spacing and modern hierarchy.
+
+Layout Requirements:
+
+- Full-screen product image
+- 360-degree product preview
+- Real-user photo gallery
+- Smart size recommendation section
+- Outfit pairing suggestions
+- Sticky add-to-cart button
+- Review section
+- AI styling assistant area
+
+Features:
+
+- AI size recommendation
+- Real-user outfit photos
+- “Complete the Look” suggestions
+- AI styling guidance
+- Interactive image gallery
+- Personalized outfit inspiration
+
+Components:
+
+- Rounded CTA buttons
+- Fashion-focused image layout
+- Floating recommendation cards
+- Smooth image transitions
+- Minimal information cards
+
+UX Goal:
+Increase user confidence and trust by reducing size confusion and product mismatch while delivering intelligent fashion guidance.
+
+Overall Mood:
+Elegant, immersive, intelligent, stylish, and premium.
+
+cart_checkout
+
+Design a Cart and Checkout screen for an AI-powered fashion e-commerce mobile app.
+
+App Identity:
+A smart personalized shopping assistant that creates smooth and stress-free fashion purchasing experiences.
+
+Research Focus:
+
+- Smart shopping assistance
+- Reducing checkout confusion
+- Personalized recommendations
+- Interactive shopping experience
+
+Main User Pain Points:
+
+- Complicated checkout flows
+- Lack of personalization
+- Confusing purchase process
+
+UX Objectives:
+
+- Simplify checkout experience
+- Encourage confident purchasing
+- Create intelligent outfit completion suggestions
+- Make checkout premium and easy
+
+Design Style:
+Minimal elegant checkout UI with clean spacing and modern premium aesthetics.
+
+Color Palette:
+
+- Black
+- White
+- Warm beige
+- Soft gray
+- Lavender accent gradients
+
+Typography:
+Modern clean typography with minimal clutter and strong hierarchy.
+
+Layout Requirements:
+
+- Cart summary section
+- Checkout progress indicator
+- Personalized recommendation section
+- Minimal payment form
+- Address section
+- Sticky checkout button
+- One-page checkout layout
+
+Features:
+
+- AI outfit completion suggestions
+- Smart upselling recommendations
+- Personalized checkout experience
+- Simplified payment flow
+- Dynamic recommendations
+
+Components:
+
+- Rounded checkout cards
+- Minimal form fields
+- Soft shadows
+- Elegant summary cards
+- Floating action buttons
+
+UX Goal:
+Make checkout feel smooth, premium, personalized, and low-stress while maintaining emotional engagement.
+
+Overall Mood:
+Simple, elegant, premium, calm, and intelligent.
+
+order_track
+Design an Order Tracking screen for a modern AI-powered fashion e-commerce mobile app.
+
+App Identity:
+A personalized fashion platform that keeps users engaged even after purchase.
+
+Research Focus:
+
+- Interactive experience
+- Fashion engagement
+- Smart shopping journey
+- Emotional user connection
+
+Main User Pain Points:
+
+- Boring order tracking
+- Lack of engagement after purchase
+- Generic delivery experience
+
+UX Objectives:
+
+- Make tracking interactive and visually engaging
+- Keep users emotionally connected after purchase
+- Extend fashion experience beyond checkout
+
+Design Style:
+Modern fashion-themed tracking interface with clean layouts and immersive visuals.
+
+Color Palette:
+
+- Charcoal black
+- White
+- Soft beige
+- Light gray
+- Lavender accents
+
+Typography:
+Clean modern typography with minimal and elegant hierarchy.
+
+Layout Requirements:
+
+- Animated delivery timeline
+- Fashion-themed illustrations
+- Real-time order updates
+- Delivery progress visualization
+- Styling tips section
+- Support/contact section
+
+Features:
+
+- Interactive tracking timeline
+- Estimated delivery updates
+- Styling suggestions while waiting
+- Delivery animations
+- Fashion engagement cards
+
+Components:
+
+- Rounded status cards
+- Timeline progress indicators
+- Minimal layouts
+- Fashion illustrations
+- Smooth transitions
+
+UX Goal:
+Transform traditional order tracking into a stylish and engaging fashion experience.
+
+Overall Mood:
+Interactive, stylish, modern, immersive, and engaging.
+
+user_profile
+Design a User Profile screen for an AI-powered personalized fashion e-commerce mobile app.
+
+App Identity:
+A fashion identity platform that understands user preferences and delivers intelligent styling experiences.
+
+Research Focus:
+
+- Personal styling
+- Fashion confidence
+- Personalized shopping
+- Smart recommendations
+
+Main User Pain Points:
+
+- Generic shopping experiences
+- Lack of personalized fashion guidance
+- Difficulty organizing fashion preferences
+
+UX Objectives:
+
+- Create a personalized fashion identity dashboard
+- Make users feel understood by AI
+- Improve engagement and retention
+
+Design Style:
+Minimal Gen Z luxury UI with personalized dashboard aesthetics.
+
+Color Palette:
+
+- Black
+- Beige
+- White
+- Warm gray
+- Lavender accents
+
+Typography:
+Modern elegant typography with clean spacing and premium hierarchy.
+
+Layout Requirements:
+
+- User profile header
+- Fashion preference dashboard
+- Wishlist section
+- Saved outfits section
+- AI style insights
+- Order history
+- Virtual wardrobe
+- Personalized recommendation section
+
+Features:
+
+- Fashion personality insights
+- AI-generated recommendations
+- Style analytics
+- Saved collections
+- Virtual closet
+- Personalized outfit inspiration
+
+Components:
+
+- Rounded dashboard cards
+- Bento-style layouts
+- Minimal navigation elements
+- Interactive recommendation sections
+
+UX Goal:
+Make the profile feel like a personal fashion identity and styling dashboard instead of a normal account page.
+
+Overall Mood:
+Personalized, intelligent, premium, fashionable, and emotionally engaging.
+
+login_signup
+Design a Login and Signup screen for an AI-powered fashion e-commerce mobile app targeted at Gen Z users.
+
+App Identity:
+A personalized AI fashion stylist platform that delivers smart and confidence-driven shopping experiences.
+
+Research Focus:
+
+- Personal styling
+- Fashion confidence
+- Personalized onboarding
+- Interactive user experience
+
+Main User Pain Points:
+
+- Generic onboarding experiences
+- Lack of personalization
+- Weak emotional connection with shopping apps
+
+UX Objectives:
+
+- Create a strong first impression
+- Introduce AI personalization immediately
+- Make onboarding feel stylish and interactive
+
+Design Style:
+Luxury modern fashion aesthetic with immersive visuals and minimal onboarding UI.
+
+Color Palette:
+
+- Deep black
+- White
+- Soft beige
+- Neutral gray
+- Lavender gradient accents
+
+Typography:
+Elegant modern sans-serif typography with bold welcome headlines and minimal forms.
+
+Layout Requirements:
+
+- Full-screen fashion imagery
+- Minimal login form
+- Social login buttons
+- Personalized onboarding questions
+- Style preference selection
+- Fashion category selection
+- Floating CTA buttons
+
+Features:
+
+- AI personalization setup
+- Favorite style selection
+- Mood-based onboarding
+- Smart user preference collection
+- Quick social sign-in
+
+Components:
+
+- Rounded form fields
+- Gradient CTA buttons
+- Glassmorphism cards
+- Minimal layouts
+- Soft shadows
+- Immersive background imagery
+
+UX Goal:
+Create an emotional and premium onboarding experience that immediately communicates personalization and intelligent fashion assistance.
+
+Overall Mood:
+Elegant, immersive, modern, stylish, intelligent, and premium.
+
+
+
